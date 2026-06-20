@@ -35,7 +35,7 @@ export default function Contact() {
     },
     {
       name: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/touseeq-haider',
+      href: 'https://www.linkedin.com/in/touseeq-haider-baa1522b1',
       icon: Linkedin,
       color: 'hover:bg-blue-500/20',
     },

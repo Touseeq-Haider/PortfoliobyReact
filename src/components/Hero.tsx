@@ -171,7 +171,7 @@ export default function Hero() {
             <Github className="w-5 h-5" />
           </motion.a>
           <motion.a
-            href="https://www.linkedin.com/in/touseeq-haider"
+            href="https://www.linkedin.com/in/touseeq-haider-baa1522b1"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 glass rounded-lg text-gray-400 hover:text-neon-green hover:border-neon-green/50 transition-all"

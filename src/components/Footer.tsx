@@ -65,7 +65,7 @@ export default function Footer() {
           className="text-center mt-6 pt-6 border-t border-dark-700"
         >
           <p className="text-gray-500 text-xs flex items-center justify-center gap-1">
-            Made with <Heart className="w-3 h-3 text-neon-green" /> using React & Tailwind CSS
+            Join with <Heart className="w-3 h-3 text-neon-green" /> Touseeq Devs 
           </p>
         </motion.div>
       </div>
